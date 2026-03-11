@@ -1,5 +1,21 @@
-<!-- ====== Greeting ====== -->
-<h1 align="center">Hey there :), I'm Noura!</h1>
+<!-- ====== Animated Greeting ====== -->
+<h1 align="center">
+  <span style="background: linear-gradient(90deg, #ff6ec4, #7873f5, #42e695); -webkit-background-clip: text; color: transparent; animation: rainbow 3s infinite linear;">
+    Hello there :) , I'm Noura!
+  </span>
+</h1>
+
+<style>
+@keyframes rainbow {
+  0% { background-position: 0% 50%; }
+  50% { background-position: 100% 50%; }
+  100% { background-position: 0% 50%; }
+}
+span {
+  background-size: 200% 200%;
+}
+</style>
+
 <p align="center">
   <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="150"/> <!-- cute cat -->
 </p>
@@ -28,3 +44,7 @@
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=nourareda&theme=radical)
 
 <!-- ====== Projects ====== -->
+## Projects
+- [Project 1](https://github.com/nourareda/project1) – Short description
+- [Project 2](https://github.com/nourareda/project2) – Short description
+- [Project 3](https://github.com/nourareda/project3) – Short description
