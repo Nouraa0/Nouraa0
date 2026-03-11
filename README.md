@@ -1,29 +1,26 @@
+<!-- ====== Greeting ====== -->
+<h1 align="center">Hey there :) , I'm Noura!</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Noura+;+Welcome+to+my+digital+space+✨+;+CS+Student+%40+SCU+👩‍💻" alt="Typing SVG" />
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="150"/> <!-- cute cat -->
 </p>
 
-<p align="center">
-&nbsp;&nbsp;<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="150"/> </p>
+<!-- ====== About Me ====== -->
+## About Me
+👩‍💻 CS Student @ Suez Canal University (Faculty of Computers and Information)  
+🖥️ Into coding, GUIs, and experimenting with **JavaFX**  
+🧩 Passionate about problem solving, algorithms, and learning new tricks  
+🎨 Love making things interactive and visually satisfying  
+⚡ Forever curious, forever experimenting  
 
----
-
-## 🌈 About Me
-* 👩‍💻 **CS Student** @ Suez Canal University
-* 🖥️ Obsessed with **JavaFX** and building smooth **GUIs**
-* 🧩 Solving problems and mastering **Algorithms** is my game
-* 🎨 I believe code should be both **functional** and **beautiful**
-* ⚡ *Always learning, always caffeinated.*
-
----
-
-## 🛠️ My Tech Toolbox
+<!-- ====== Skills / Tech Stack ====== -->
+## Skills
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,java,py,html,css,git,vscode" />
-  </a>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/>
 </p>
 
----
 
 ## 📊 GitHub Stats
 <p align="center">
