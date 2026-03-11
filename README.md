@@ -1,7 +1,7 @@
 <!-- ====== Greeting ====== -->
 <h1 align="center">Hey there 👋, I'm Noura!</h1>
 <p align="center">
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="150"/> <!-- قطط cute -->
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="150"/> <!-- cute cat -->
 </p>
 
 <!-- ====== About Me ====== -->
@@ -32,9 +32,3 @@
 - [Project 1](https://github.com/nourareda/project1) – Short description
 - [Project 2](https://github.com/nourareda/project2) – Short description
 - [Project 3](https://github.com/nourareda/project3) – Short description
-
-<!-- ====== Cute / Fun GIFs ====== -->
-<p align="center">
-  <img src="https://media.giphy.com/media/mlvseq9yvZhba/giphy.gif" width="200"/> <!-- قطط بتلعب -->
-  <img src="https://media.giphy.com/media/ICOgUNjpvO0PC/giphy.gif" width="150"/> <!-- بوكيمون لطيف -->
-</p>
